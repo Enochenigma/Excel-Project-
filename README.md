@@ -8,7 +8,7 @@
 ### Overview
 This project analyzes coffee sales data using an **Excel dashboard** to visualize key insights into **sales trends, customer behaviors, and product performance**. 
 
-The dataset includes details on orders, customers, and products, helping businesses make data-driven decisions.
+The dataset includes details on orders, customers, and products, helping the business make data-driven decisions.
 
 ### Features
 - **Total Sales Analysis**: Tracks revenue and order trends over time.
